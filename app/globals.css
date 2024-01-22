@@ -3,6 +3,10 @@
 @tailwind utilities;
 
 @layer utilities {
+  .subtitle {
+    @apply text-[1.75rem] text-primary-nutmeg;
+  }
+
   .footer-link {
     @apply cursor-pointer underline;
   }

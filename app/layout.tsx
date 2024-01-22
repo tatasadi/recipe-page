@@ -23,7 +23,7 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${youngSerif.className} flex min-h-screen flex-col items-center justify-center bg-neutral-eggshell`}
+        className={`${youngSerif.className} flex min-h-screen flex-col items-center justify-center bg-neutral-eggshell text-neutral-wenge-brown`}
       >
         {children}
       </body>

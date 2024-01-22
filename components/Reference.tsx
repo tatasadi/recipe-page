@@ -1,6 +1,6 @@
 export default function Reference() {
   return (
-    <footer className="mb-1 mt-auto flex flex-col text-center text-sm sm:col-span-2 sm:w-full sm:flex-row sm:justify-center sm:gap-1 lg:mt-32">
+    <footer className="mb-1 mt-auto flex flex-col pt-1 text-center text-sm sm:col-span-2 sm:w-full sm:flex-row sm:justify-center sm:gap-1 lg:mt-32">
       <div>
         Challenge by{" "}
         <a
